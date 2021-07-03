@@ -1,0 +1,49 @@
+#machinery {
+    background-color: #444444;
+    color: #ffffff;
+}
+
+#machinery li {
+    list-style-type: none;
+}
+
+#mazak {
+    color: #ff6600;
+}
+
+#jet-edge {
+    color: #0293fa;
+}
+
+#honor-seiki {
+    color: #0272fa;
+}
+
+body {
+    background-color: #232323;
+    color: #ffffff;
+}
+
+#footer a,
+#contact a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#contact li{
+    list-style-type: none;
+}
+
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.fa-bars {
+    color: #ffffff;
+}
+
+#footer,
+#navbar {
+    background-color: black;
+}
